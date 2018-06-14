@@ -1,2 +1,2 @@
 # parse-csv-to-object
-Parsing algorithm that reads a csv data and organizes it into an object structure.
+Parsing algorithm that reads a csv dataset and organizes it into an object structure.
